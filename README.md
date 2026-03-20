@@ -1,4 +1,6 @@
+<img width="675" height="384" alt="Screenshot 2026-03-20 at 10 07 49 AM" src="https://github.com/user-attachments/assets/bf0d1933-5598-4bc9-aeae-d5a5c6e3de42" />
 Monday Coffee Expansion SQL Project
+![Uploading Screenshot 2026-03-20 at 10.07.49 AM.png…]()
 Company Logo
 
 Objective
